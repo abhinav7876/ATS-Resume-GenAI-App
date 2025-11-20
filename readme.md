@@ -28,4 +28,4 @@ pip install -r requirements.txt
 # Finally run the following command
 python app.py
 
-![alt text](<Screenshot 2025-11-21 050951-3.png>)
+![alt text](<Screenshot 2025-11-21 050951.png>)
